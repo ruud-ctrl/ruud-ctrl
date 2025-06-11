@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi, I'm Ruud Juffermans
 
-<!--
-**ruud-ctrl/ruud-ctrl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a cryptocurrency specialist working in the Police Cybercrime Department, with a background in programming, data engineering, and blockchain technologies.
 
-Here are some ideas to get you started:
+### Tech Stack
+- Python, Rust, SQL (Postgres, MySQL)
+- Docker, Kafka, Blockchain
+- Data Engineering & Data Science
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projects
+
+
+### 🌐 Connect
+- [ruudjuffermans.nl](https://www.ruudjuffermans.nl)
+- [LinkedIn](https://www.linkedin.com/in/r-j3/)
+- [Instagram](https://www.instagram.com/rudy_j3/)
+- [Email Me](mailto:me@ruudjuffermans.nl)
