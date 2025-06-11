@@ -8,7 +8,7 @@ I'm a cryptocurrency specialist working in the Police Cybercrime Department, wit
 ### Projects
 
 
-### 🌐 Connect
+### Connect
 - [ruudjuffermans.nl](https://www.ruudjuffermans.nl)
 - [LinkedIn](https://www.linkedin.com/in/r-j3/)
 - [Instagram](https://www.instagram.com/rudy_j3/)
