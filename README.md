@@ -1,5 +1,3 @@
-# 👋 Hi, I'm Ruud Juffermans
-
 I'm a cryptocurrency specialist working in the Police Cybercrime Department, with a background in programming, data engineering, and blockchain technologies.
 
 ### Tech Stack
