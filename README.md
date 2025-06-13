@@ -33,11 +33,7 @@ DevOps & Infrastructure:<br/>
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) 
 
 
-
-
 ## Stats
 ![](https://nirzak-streak-stats.vercel.app/?user=ruud-ctrl&theme=dark&hide_border=false)<br/>
-
-### Projects
 
 [![](https://visitcount.ruudjuffermans.nl)](https://visitcount.ruudjuffermans.nl)
